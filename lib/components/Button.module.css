@@ -1,0 +1,10 @@
+.primary {
+  background-color: #28f6f6;
+  height: 4rem;
+  width: 10rem;
+  border-radius: 1rem;
+}
+
+.primary:active {
+  background-color: #1b7b7b;
+}
